@@ -13,7 +13,7 @@ public class Calculator {
 		catch(ArithmeticException ae) {
 			System.out.println("We can't divide any numbers using zero " +ae);
 		}
-		System.out.println("Thank you");
+		System.out.println("Thanks");
 		
 	}
 
